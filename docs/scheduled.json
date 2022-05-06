@@ -1,0 +1,244 @@
+{
+  "adrien-hudson-usds": [
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Christopher Hayes",
+      "talentRep": "tali-runs",
+      "hidden": false,
+      "startTime": 1652367600,
+      "friendlyStartTime": "5/12/2022, 11:00:00 AM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Simone Luettgen",
+      "talentRep": "joey-butta",
+      "hidden": false,
+      "startTime": 1652972400,
+      "friendlyStartTime": "5/19/2022, 11:00:00 AM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Hailey Mayert",
+      "talentRep": "tali-runs",
+      "hidden": false,
+      "startTime": 1653577200,
+      "friendlyStartTime": "5/26/2022, 11:00:00 AM"
+    }
+  ],
+  "jamison-moore-usds": [
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Libbie Schmidt",
+      "talentRep": "joey-butta",
+      "hidden": false,
+      "startTime": 1652211900,
+      "friendlyStartTime": "5/10/2022, 3:45:00 PM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Ignacio Hermiston",
+      "talentRep": "lan-party-man",
+      "hidden": false,
+      "startTime": 1652816700,
+      "friendlyStartTime": "5/17/2022, 3:45:00 PM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Maud Schoen",
+      "talentRep": "tali-runs",
+      "hidden": false,
+      "startTime": 1653421500,
+      "friendlyStartTime": "5/24/2022, 3:45:00 PM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Betty Schuster",
+      "talentRep": "joseph-broseph",
+      "hidden": false,
+      "startTime": 1654026300,
+      "friendlyStartTime": "5/31/2022, 3:45:00 PM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Angelo Schultz",
+      "talentRep": "ange-the-knife",
+      "hidden": false,
+      "startTime": 1654631100,
+      "friendlyStartTime": "6/7/2022, 3:45:00 PM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Fay Padberg",
+      "talentRep": "bearded-jesus",
+      "hidden": false,
+      "startTime": 1655235900,
+      "friendlyStartTime": "6/14/2022, 3:45:00 PM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Eunice Fay",
+      "talentRep": "ange-the-knife",
+      "hidden": false,
+      "startTime": 1655840700,
+      "friendlyStartTime": "6/21/2022, 3:45:00 PM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Brannon Okuneva",
+      "talentRep": "joey-butta",
+      "hidden": false,
+      "startTime": 1656445500,
+      "friendlyStartTime": "6/28/2022, 3:45:00 PM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Loyce Borer",
+      "talentRep": "hieu-hieu",
+      "hidden": false,
+      "startTime": 1657050300,
+      "friendlyStartTime": "7/5/2022, 3:45:00 PM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Arianna Crona",
+      "talentRep": "tali-runs",
+      "hidden": true,
+      "startTime": 1657655100,
+      "friendlyStartTime": "7/12/2022, 3:45:00 PM"
+    }
+  ],
+  "milton-mosciski-usds": [
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Jody Tremblay",
+      "talentRep": "ange-the-knife",
+      "hidden": false,
+      "startTime": 1652194800,
+      "friendlyStartTime": "5/10/2022, 11:00:00 AM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Kaylin Koch",
+      "talentRep": "joseph-broseph",
+      "hidden": true,
+      "startTime": 1652799600,
+      "friendlyStartTime": "5/17/2022, 11:00:00 AM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Leatha Haag",
+      "talentRep": "hieu-hieu",
+      "hidden": false,
+      "startTime": 1653404400,
+      "friendlyStartTime": "5/24/2022, 11:00:00 AM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Nona Paucek",
+      "talentRep": "ange-the-knife",
+      "hidden": false,
+      "startTime": 1654009200,
+      "friendlyStartTime": "5/31/2022, 11:00:00 AM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Lorine Lehner",
+      "talentRep": "joseph-broseph",
+      "hidden": true,
+      "startTime": 1654614000,
+      "friendlyStartTime": "6/7/2022, 11:00:00 AM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Taylor Wehner",
+      "talentRep": "bearded-jesus",
+      "hidden": false,
+      "startTime": 1655218800,
+      "friendlyStartTime": "6/14/2022, 11:00:00 AM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Delpha Satterfield",
+      "talentRep": "joseph-broseph",
+      "hidden": false,
+      "startTime": 1655823600,
+      "friendlyStartTime": "6/21/2022, 11:00:00 AM"
+    }
+  ],
+  "iva-gislason-usds": [
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Kitty Treutel",
+      "talentRep": "lan-party-man",
+      "hidden": false,
+      "startTime": 1652296500,
+      "friendlyStartTime": "5/11/2022, 3:15:00 PM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Afton Corkery",
+      "talentRep": "bearded-jesus",
+      "hidden": false,
+      "startTime": 1652901300,
+      "friendlyStartTime": "5/18/2022, 3:15:00 PM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Lucinda Bechtelar",
+      "talentRep": "tali-runs",
+      "hidden": false,
+      "startTime": 1653506100,
+      "friendlyStartTime": "5/25/2022, 3:15:00 PM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Shyann Stamm",
+      "talentRep": "lan-party-man",
+      "hidden": false,
+      "startTime": 1654110900,
+      "friendlyStartTime": "6/1/2022, 3:15:00 PM"
+    },
+    {
+      "interviewType": "TQ1",
+      "candidateName": "Jalon O'Keefe",
+      "talentRep": "lan-party-man",
+      "hidden": false,
+      "startTime": 1654715700,
+      "friendlyStartTime": "6/8/2022, 3:15:00 PM"
+    }
+  ],
+  "delbert-skiles-usds": [
+    {
+      "interviewType": "TQ2",
+      "candidateName": "Helen Leffler",
+      "talentRep": "ange-the-knife",
+      "hidden": false,
+      "startTime": 1652367600,
+      "friendlyStartTime": "5/12/2022, 11:00:00 AM"
+    },
+    {
+      "interviewType": "TQ2",
+      "candidateName": "Sandrine Quitzon",
+      "talentRep": "lan-party-man",
+      "hidden": false,
+      "startTime": 1652972400,
+      "friendlyStartTime": "5/19/2022, 11:00:00 AM"
+    },
+    {
+      "interviewType": "TQ2",
+      "candidateName": "Gregoria Hane",
+      "talentRep": "ange-the-knife",
+      "hidden": false,
+      "startTime": 1653577200,
+      "friendlyStartTime": "5/26/2022, 11:00:00 AM"
+    },
+    {
+      "interviewType": "TQ2",
+      "candidateName": "Jerrell Turcotte",
+      "talentRep": "ange-the-knife",
+      "hidden": false,
+      "startTime": 1654182000,
+      "friendlyStartTime": "6/2/2022, 11:00:00 AM"
+    }
+  ]
+}

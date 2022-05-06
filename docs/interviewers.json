@@ -1,0 +1,770 @@
+{
+  "elmore-kris-usds": {
+    "fullName": "Elmore Kris",
+    "contact": {
+      "email": "elmore.kris@usds.gov",
+      "slack": "@ElmoreKris"
+    },
+    "community": "Engineering",
+    "skills": [
+      "evolve mission-critical communities"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ2",
+          "TQ1"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "10:00",
+        "endTime": "11:45",
+        "friendlyStartTime": "2022-05-06T11:41:29.256Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.256Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Tuesday",
+        "startTime": "15:15",
+        "endTime": "18:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.256Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.256Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Friday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "friendlyStartTime": "2022-05-06T11:41:29.256Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.256Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ2"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "18:00",
+        "endTime": "22:45",
+        "friendlyStartTime": "2022-05-06T11:41:29.256Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.256Z"
+      }
+    ]
+  },
+  "levi-schaefer-usds": {
+    "fullName": "Levi Schaefer",
+    "contact": {
+      "email": "levi.schaefer@usds.gov",
+      "slack": "@LeviSchaefer"
+    },
+    "community": "Product",
+    "skills": [
+      "engineer bricks-and-clicks e-tailers",
+      "exploit plug-and-play methodologies",
+      "deploy dynamic platforms",
+      "revolutionize killer e-business",
+      "monetize scalable partnerships"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Wednesday",
+        "startTime": "11:30",
+        "endTime": "12:45",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Friday",
+        "startTime": "11:45",
+        "endTime": "15:45",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Friday",
+        "startTime": "10:15",
+        "endTime": "14:45",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      }
+    ]
+  },
+  "ines-jones-usds": {
+    "fullName": "Ines Jones",
+    "contact": {
+      "email": "ines.jones@usds.gov",
+      "slack": "@InesJones"
+    },
+    "community": "Procurement",
+    "skills": [
+      "optimize dot-com experiences"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Monday",
+        "startTime": "10:30",
+        "endTime": "13:00",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "9:00",
+        "endTime": "10:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      }
+    ]
+  },
+  "albin-welch-usds": {
+    "fullName": "Albin Welch",
+    "contact": {
+      "email": "albin.welch@usds.gov",
+      "slack": "@AlbinWelch"
+    },
+    "community": "Product",
+    "skills": [
+      "exploit plug-and-play methodologies",
+      "monetize scalable partnerships",
+      "engineer bricks-and-clicks e-tailers",
+      "revolutionize killer e-business"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Tuesday",
+        "startTime": "16:15",
+        "endTime": "18:30",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Friday",
+        "startTime": "8:45",
+        "endTime": "12:30",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1",
+          "TQ2"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "17:00",
+        "endTime": "21:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      }
+    ]
+  },
+  "morgan-baumbach-usds": {
+    "fullName": "Morgan Baumbach",
+    "contact": {
+      "email": "morgan.baumbach@usds.gov",
+      "slack": "@MorganBaumbach"
+    },
+    "community": "Procurement",
+    "skills": [
+      "implement frictionless applications"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ2",
+          "TQ1"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "9:30",
+        "endTime": "13:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      }
+    ]
+  },
+  "delbert-skiles-usds": {
+    "fullName": "Delbert Skiles",
+    "contact": {
+      "email": "delbert.skiles@usds.gov",
+      "slack": "@DelbertSkiles"
+    },
+    "community": "Procurement",
+    "skills": [
+      "optimize dot-com experiences",
+      "implement frictionless applications",
+      "facilitate virtual niches",
+      "cultivate bleeding-edge communities",
+      "enable ubiquitous applications"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Tuesday",
+        "startTime": "18:30",
+        "endTime": "22:00",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ2"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "11:00",
+        "endTime": "15:45",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1",
+          "TQ2"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "8:30",
+        "endTime": "9:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      }
+    ]
+  },
+  "iva-gislason-usds": {
+    "fullName": "Iva Gislason",
+    "contact": {
+      "email": "iva.gislason@usds.gov",
+      "slack": "@IvaGislason"
+    },
+    "community": "Procurement",
+    "skills": [
+      "facilitate virtual niches",
+      "enable ubiquitous applications",
+      "implement frictionless applications",
+      "optimize dot-com experiences",
+      "cultivate bleeding-edge communities"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1",
+          "TQ2"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "8:00",
+        "endTime": "10:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Wednesday",
+        "startTime": "15:15",
+        "endTime": "16:00",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      }
+    ]
+  },
+  "kyleigh-boyer-usds": {
+    "fullName": "Kyleigh Boyer",
+    "contact": {
+      "email": "kyleigh.boyer@usds.gov",
+      "slack": "@KyleighBoyer"
+    },
+    "community": "Procurement",
+    "skills": [
+      "implement frictionless applications"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "17:00",
+        "endTime": "19:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.257Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.257Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ2"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "18:00",
+        "endTime": "21:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "16:15",
+        "endTime": "19:00",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      }
+    ]
+  },
+  "kathleen-macejkovic-usds": {
+    "fullName": "Kathleen Macejkovic",
+    "contact": {
+      "email": "kathleen.macejkovic@usds.gov",
+      "slack": "@KathleenMacejkovic"
+    },
+    "community": "Product",
+    "skills": [
+      "revolutionize killer e-business"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "10:15",
+        "endTime": "12:30",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Monday",
+        "startTime": "14:45",
+        "endTime": "17:00",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      }
+    ]
+  },
+  "stacey-hermiston-usds": {
+    "fullName": "Stacey Hermiston",
+    "contact": {
+      "email": "stacey.hermiston@usds.gov",
+      "slack": "@StaceyHermiston"
+    },
+    "community": "Design",
+    "skills": [
+      "benchmark vertical users"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Friday",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      }
+    ]
+  },
+  "tania-wehner-usds": {
+    "fullName": "Tania Wehner",
+    "contact": {
+      "email": "tania.wehner@usds.gov",
+      "slack": "@TaniaWehner"
+    },
+    "community": "Product",
+    "skills": [
+      "monetize scalable partnerships",
+      "exploit plug-and-play methodologies"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ2"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "8:00",
+        "endTime": "11:45",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ2"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "16:45",
+        "endTime": "17:00",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      }
+    ]
+  },
+  "cory-little-usds": {
+    "fullName": "Cory Little",
+    "contact": {
+      "email": "cory.little@usds.gov",
+      "slack": "@CoryLittle"
+    },
+    "community": "Product",
+    "skills": [
+      "exploit plug-and-play methodologies",
+      "deploy dynamic platforms"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ2"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "10:45",
+        "endTime": "14:00",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "19:00",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      }
+    ]
+  },
+  "rafael-gusikowski-usds": {
+    "fullName": "Rafael Gusikowski",
+    "contact": {
+      "email": "rafael.gusikowski@usds.gov",
+      "slack": "@RafaelGusikowski"
+    },
+    "community": "Procurement",
+    "skills": [
+      "enable ubiquitous applications"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1",
+          "TQ2"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "9:00",
+        "endTime": "13:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1",
+          "TQ2"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "9:15",
+        "endTime": "10:00",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Friday",
+        "startTime": "12:45",
+        "endTime": "16:30",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      }
+    ]
+  },
+  "orin-nienow-usds": {
+    "fullName": "Orin Nienow",
+    "contact": {
+      "email": "orin.nienow@usds.gov",
+      "slack": "@OrinNienow"
+    },
+    "community": "Engineering",
+    "skills": [
+      "disintermediate plug-and-play content",
+      "incubate innovative initiatives",
+      "evolve mission-critical communities"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Wednesday",
+        "startTime": "18:45",
+        "endTime": "19:45",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      }
+    ]
+  },
+  "kara-zboncak-usds": {
+    "fullName": "Kara Zboncak",
+    "contact": {
+      "email": "kara.zboncak@usds.gov",
+      "slack": "@KaraZboncak"
+    },
+    "community": "Engineering",
+    "skills": [
+      "incubate innovative initiatives",
+      "disintermediate plug-and-play content"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "17:45",
+        "endTime": "20:45",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Tuesday",
+        "startTime": "16:30",
+        "endTime": "18:30",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      }
+    ]
+  },
+  "milton-mosciski-usds": {
+    "fullName": "Milton Mosciski",
+    "contact": {
+      "email": "milton.mosciski@usds.gov",
+      "slack": "@MiltonMosciski"
+    },
+    "community": "Procurement",
+    "skills": [
+      "facilitate virtual niches",
+      "implement frictionless applications"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Tuesday",
+        "startTime": "11:00",
+        "endTime": "14:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Monday",
+        "startTime": "10:00",
+        "endTime": "14:00",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ2",
+          "TQ1"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      }
+    ]
+  },
+  "adrien-hudson-usds": {
+    "fullName": "Adrien Hudson",
+    "contact": {
+      "email": "adrien.hudson@usds.gov",
+      "slack": "@AdrienHudson"
+    },
+    "community": "Product",
+    "skills": [
+      "exploit plug-and-play methodologies",
+      "deploy dynamic platforms",
+      "engineer bricks-and-clicks e-tailers",
+      "revolutionize killer e-business",
+      "monetize scalable partnerships"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "11:00",
+        "endTime": "15:45",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Monday",
+        "startTime": "8:15",
+        "endTime": "10:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      }
+    ]
+  },
+  "jamison-moore-usds": {
+    "fullName": "Jamison Moore",
+    "contact": {
+      "email": "jamison.moore@usds.gov",
+      "slack": "@JamisonMoore"
+    },
+    "community": "Design",
+    "skills": [
+      "integrate collaborative users"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ2"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "13:45",
+        "endTime": "16:45",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Tuesday",
+        "startTime": "15:45",
+        "endTime": "16:45",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Wednesday",
+        "startTime": "16:45",
+        "endTime": "20:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      }
+    ]
+  },
+  "phyllis-fadel-usds": {
+    "fullName": "Phyllis Fadel",
+    "contact": {
+      "email": "phyllis.fadel@usds.gov",
+      "slack": "@PhyllisFadel"
+    },
+    "community": "Product",
+    "skills": [
+      "engineer bricks-and-clicks e-tailers",
+      "monetize scalable partnerships",
+      "exploit plug-and-play methodologies",
+      "deploy dynamic platforms",
+      "revolutionize killer e-business"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Monday",
+        "startTime": "11:15",
+        "endTime": "12:45",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      }
+    ]
+  },
+  "emilio-daugherty-usds": {
+    "fullName": "Emilio Daugherty",
+    "contact": {
+      "email": "emilio.daugherty@usds.gov",
+      "slack": "@EmilioDaugherty"
+    },
+    "community": "Engineering",
+    "skills": [
+      "incubate innovative initiatives",
+      "repurpose scalable e-markets"
+    ],
+    "availability": [
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Wednesday",
+        "startTime": "8:30",
+        "endTime": "10:45",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ1"
+        ],
+        "dayOfWeek": "Tuesday",
+        "startTime": "17:15",
+        "endTime": "19:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      },
+      {
+        "interviewTypes": [
+          "TQ2"
+        ],
+        "dayOfWeek": "Thursday",
+        "startTime": "13:15",
+        "endTime": "16:15",
+        "friendlyStartTime": "2022-05-06T11:41:29.258Z",
+        "friendlyEndTime": "2022-05-06T11:41:29.258Z"
+      }
+    ]
+  }
+}
