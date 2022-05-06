@@ -44,9 +44,6 @@ for (var x = 0; x < recordsToGenerate; x++) {
     o.startTime = shour + ":" + _.sample(times);
     o.endTime = ehour + ":" + _.sample(times);
 
-    o.friendlyStartTime = dayjs(o.StartTime).toDate();
-    o.friendlyEndTime = dayjs(o.EndTime).toDate();
-
     availability.push(o);
   }
   var cop = _.sample(communities);
